@@ -1,0 +1,1 @@
+Two ways of implementing powershell through AWS-SSM.
